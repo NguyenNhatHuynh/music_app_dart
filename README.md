@@ -28,8 +28,6 @@ Before you get started, make sure you have the following tools installed on your
 * [Dart](https://dart.dev/)
 * An IDE like [Visual Studio Code](https://code.visualstudio.com/download) or [Android Studio](https://developer.android.com/)
 
-### Installation
-<!--- 1. Clone the repository --->
 
 
 # Author👨‍💻 
