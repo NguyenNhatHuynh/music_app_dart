@@ -28,7 +28,7 @@ Before you get started, make sure you have the following tools installed on your
 * [Dart](https://dart.dev/)
 * An IDE like [Visual Studio Code](https://code.visualstudio.com/download) or [Android Studio](https://developer.android.com/)
 
-
+<--->
 
 # Author👨‍💻 
 ### I would appreciate if you could give this repository a star 🌟. It would help others to discover this. Thank you for your support 👨‍💻
